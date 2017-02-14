@@ -25,6 +25,8 @@ pip search flask
 # Para instalar paquetes por consola
 pip install flask
 pip install pytest
+pip install tox
 
 # Para obtener versiones instaladas -> Crear paquete requirements.txt
 pip freeze > requirements.txt
+

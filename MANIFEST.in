@@ -1,0 +1,6 @@
+include requirements.txt requirements-dev.txt
+
+recursive-exclude *.pyc
+recursive-include 00_installation *
+recursive-include 01_parsers *
+recursive-include 02_web *

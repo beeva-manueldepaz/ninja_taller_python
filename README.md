@@ -1,5 +1,9 @@
-# Ejemplos de Python durante el Taller Ninja
+# Taller Ninja de Python
 
-Ejemplos e instalación de Python
+Baby steps & instalación de Python
+
+* Procesando Logs
+* Easy API Rest with Flask
+* Unit test with pytest
 
 2017

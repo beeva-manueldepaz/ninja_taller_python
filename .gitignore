@@ -1,5 +1,6 @@
 .idea
 .cache
+.tox
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

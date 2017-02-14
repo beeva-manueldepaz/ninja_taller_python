@@ -26,6 +26,7 @@ pip search flask
 pip install flask
 pip install pytest
 pip install tox
+pip install cookiecutter
 
 # Para obtener versiones instaladas -> Crear paquete requirements.txt
 pip freeze > requirements.txt

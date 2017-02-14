@@ -30,3 +30,5 @@ pip install tox
 # Para obtener versiones instaladas -> Crear paquete requirements.txt
 pip freeze > requirements.txt
 
+# Paquetizar para distribuir
+python setup.py sdist
